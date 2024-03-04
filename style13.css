@@ -1,0 +1,12 @@
+
+body{
+    background-color: black;
+}
+div{
+    text-align: center;
+    color: white;
+}
+img{
+    border: solid white;
+    width:400px;
+}

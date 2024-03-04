@@ -1,0 +1,25 @@
+.d1{
+    background-color: lightseagreen;
+    border: 20px solid black;
+    width:250px;
+    padding: 20px;
+}
+.d2{
+    background-color:yellow;
+    border: 20px solid black;
+    border-left:10px solid black;
+    border-right:10px solid black;
+    width:250px;
+    padding: 20px;
+    margin-left: 330px;
+    height: 200px;
+}
+
+.d3{
+    background-color:tomato;
+    border: 10px solid black;
+    width:250px;
+    padding: 20px;
+    margin-left :20px;
+    height: 200px;
+}
